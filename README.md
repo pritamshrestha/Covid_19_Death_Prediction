@@ -2,7 +2,7 @@
 # Summary:
 According to the CDC, Coronavirus (Covid_19) is an illness caused by a virus that can spread from person to person. The virus that causes COVID-19 is a new coronavirus that has spread throughout the world. Its symptoms can range from mild to severe illness. Coronavirus disease (COVID-19) is an inflammation disease from a new virus. Basically, it affects the respiratory system of the human, and its known symptoms are fever, common cold, and cough. But it could cause severe damage to the respiratory system and breathing problems. 
 
-<img src="image/image.jpg" width="400px" height="300px">
+<img src="image/death.jpg" width="400px" height="300px">
 
 1)	Exploratory Data Analysis:
 
